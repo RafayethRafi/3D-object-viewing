@@ -1,0 +1,11 @@
+Model Information:
+* title:	humerus (humerus) dog
+* source:	https://sketchfab.com/3d-models/humerus-humerus-dog-7e7933d08131495f85c7e925e86ba815
+* author:	vetanatMunich (https://sketchfab.com/vetanatMunich)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "humerus (humerus) dog" (https://sketchfab.com/3d-models/humerus-humerus-dog-7e7933d08131495f85c7e925e86ba815) by vetanatMunich (https://sketchfab.com/vetanatMunich) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
